@@ -1,0 +1,6 @@
+{
+  "name": "Casino Analyzer",
+  "description": "Herramienta avanzada de análisis estadístico, calculadora de rollover de bonos, pensador automático con IA y simulador táctico de casino con modo camuflaje.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
